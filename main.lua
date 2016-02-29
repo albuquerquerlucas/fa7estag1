@@ -6,7 +6,7 @@
 -- Disciplina: Estágio Supervisionado I                             --|
 -- Coordenador: Eduardo Mendes                                      --|
 -- Aplicativio: Arrows & Ballons                                    --|
--- Versão: 3.0                                                      --|
+-- Versão: 1.0                                                      --|
 -- Autor: Lucas Rodrigues Albuquerque                               --|
 -- Contato: albuquerque.r.lucas@gmail.com                           --|
 -- Phone: +55 85 9 9840-9203                                        --|
@@ -39,10 +39,6 @@ metadeCentroY2Quad = centroY + metadeCentroY
 
 print( "Altura: " .. altura )
 print( "Largura: " .. largura )
-
--- Audio.
------------------------------------------------------------------------
-
 
 -- Transição padrão de tela.
 -----------------------------------------------------------------------
