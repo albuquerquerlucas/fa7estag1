@@ -1,0 +1,13 @@
+settings = {
+	
+	orientation = {
+		
+		default = "landscapeRight", -- portrait, portraitUpsideDown, landscapeLeft, landscapeRight
+		supported = { "landscapeRight" }
+	},
+
+	excludeFiles =
+	{
+		android = { "Icon.png", "Icon-Small-*.png", "Icon*@2x.png", },
+	},
+}
